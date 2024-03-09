@@ -12,7 +12,6 @@ KEYWORDS="*"
 
 RDEPEND="
     virtual/openfyde-board-spec
-    chromeos-base/device-appid
     media-libs/intel-ipu6se-camera-bins
 "
 
