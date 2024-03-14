@@ -1,2 +1,3 @@
 chromeos-base/chromeos-fonts -internal
 sys-libs/ncurses unicode
+chromeos-base/cryptohome -upper_case_product_uuid
