@@ -1544,7 +1544,7 @@ CONFIG_HOTPLUG_PCI_ACPI=y
 #
 # PCI controller drivers
 #
-# CONFIG_VMD is not set
+CONFIG_VMD=y
 
 #
 # DesignWare PCI Core Support
