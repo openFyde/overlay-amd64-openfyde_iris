@@ -13,6 +13,8 @@ KEYWORDS="*"
 RDEPEND="
     virtual/openfyde-board-spec
     media-libs/intel-ipu6se-camera-bins
+    sys-firmware/apple-wifi-firmware
+    sys-fs/linux-apfs-rw
 "
 
 DEPEND="${RDEPEND}"
