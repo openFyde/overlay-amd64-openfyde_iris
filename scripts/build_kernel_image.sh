@@ -18,7 +18,6 @@ modify_kernel_command_line() {
   echo "tpm_tis.force=0" >> "$1"
 
   # Load GuC and HuC firmware
-  echo "i915.enable_guc=2" >> "$1"
-
-  echo "i915.enable_psr=0" >> "$1"
+#  echo "i915.enable_guc=-1" >> "$1"
+#  echo "i915.enable_psr=0" >> "$1"
 }
