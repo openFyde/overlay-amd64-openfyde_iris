@@ -13,6 +13,7 @@ KEYWORDS="*"
 RDEPEND="
     virtual/openfyde-board-spec
     media-libs/intel-ipu6se-camera-bins
+    media-libs/snd-intel-dspcfg-legacy
     sys-firmware/apple-wifi-firmware
     sys-fs/linux-apfs-rw
 "
